@@ -1,0 +1,8 @@
+cabal-version: 2.4
+name: tile-game
+version: 0
+
+executable tile-game
+  build-depends: base
+  main-is: Main.hs
+  ghc-options: -Wall
